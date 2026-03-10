@@ -1,6 +1,3 @@
-# I-O-Performance-for-ML-Data-Loaders
-# I-O-Performance-for-ML-Data-Loaders
-
 # CERN-HSF GSoC 2026 Evaluation Task
 
 **Characterizing I/O Performance for ML Data Loaders at Scale Using Darshan**
